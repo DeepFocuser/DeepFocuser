@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 -->
 <br>
 <p>
-  💬 : <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rlawhdrhs27@gmail.com-EA3245?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  💬 : <a href="rlawhdrhs27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rlawhdrhs27@gmail.com-EA3245?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
-  📫 : <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/JONGGON-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  📫 : <a href="www.linkedin.com/in/kim-jonggon-37ba19120" target="_blank"><img src="https://img.shields.io/badge/JONGGON-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
 
