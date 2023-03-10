@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 <p>
   💩 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
   💩 <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=Cplusplus&logoColor=white"/>
-  <!--   💩 <img src="https://img.shields.io/badge/Go-61DAFB?style=flat-square&logo=go&logoColor=black"/>
-    💩 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=black"/>
-    💩 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=black"/> -->
+  💩 <img src="https://img.shields.io/badge/Go-61DAFB?style=flat-square&logo=go&logoColor=black"/>
+  💩 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=black"/>
+  💩 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=black"/>
   💩 <img src="https://img.shields.io/badge/-javascript-blue"/>
 </p>
 
