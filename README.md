@@ -51,4 +51,5 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepFocuser&show_icons=true&theme=ayu-mirage&card_width=500px) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepFocuser&layout=compact&theme=ayu-mirage&card_width=500px)
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=random&height=121&animation=scaleIn&section=footer&fontColor=DBFEFE&fontSize=60&fontAlign=50&descAlignY=51&descAlign=50&rotate=1) 
 </div>
