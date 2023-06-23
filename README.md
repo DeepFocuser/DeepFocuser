@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Jonggon%20Profile&fontSize=90&animation=fadeIn&fontAlignY=38&desc=my%20development%20journey!&descAlignY=51&descAlign=62&rotate=1)
-
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23DD0543&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 👋 모든 것을 잘하고 싶어하는 김종곤 입니다.👋
 <!--
 **DeepFocuser/DeepFocuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
