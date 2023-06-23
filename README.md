@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   📫 : <a href="https://www.linkedin.com/in/kim-jonggon-37ba19120/" target="_blank"><img src="https://img.shields.io/badge/JONGGON-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
+# :hammer: Skills
 
 #### 💪 Languages
 <p>
@@ -45,7 +46,7 @@ Here are some ideas to get you started:
 </p>
 
 
-## **뭐 하면서 살았니?**
+# 📋 Life
 
 | 기간 | 회사명 | 프로젝트     |
 |:----|:---------|:--------|
