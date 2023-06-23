@@ -1,6 +1,6 @@
-### 👋 모든 것을 잘하고 싶어하는 김종곤 입니다.👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jonggon%20Profile&fontSize=90&animation=fadeIn&fontAlignY=38&desc=my%20development%20journey!&descAlignY=51&descAlign=62)
 
- 
+### 👋 모든 것을 잘하고 싶어하는 김종곤 입니다.👋
 <!--
 **DeepFocuser/DeepFocuser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -30,9 +30,9 @@ Here are some ideas to get you started:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react?&style=for-the-badge&logo=React&logoColor=black) ![NEXT](https://img.shields.io/badge/-NextJs-12D3DB?logo=NextJS?&style=for-the-badge&logo=NextJS&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react?&style=for-the-badge&logo=React&logoColor=black) ![NEXT](https://img.shields.io/badge/-NextJs-000000?logo=NextJS?&style=for-the-badge&logo=NextJS&logoColor=black)
 
-![PYTORCH](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white) ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white) ![Mxnet](https://img.shields.io/badge/Mxnet-61DAFB?style=flat-square&logo=Mxnet&logoColor=black) ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black)
+![PYTORCH](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white) ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white) ![Mxnet](https://img.shields.io/badge/Mxnet-61DAFB?style=flat-square&logo=Mxnet&logoColor=black) ![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white)
 
 # 📋 Experience
 
