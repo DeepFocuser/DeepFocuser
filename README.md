@@ -6,14 +6,13 @@
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeepFocuser&count_bg=%23DD0543&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)
  ---
-# 📞 Contact 📞
+ 
+<h1 align="center"> 📞 Contact 📞 </h1>
 <p>
   💬 : <a href="mailto:rlawhdrhs27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rlawhdrhs27@gmail.com-EA3245?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/kim-jonggon-37ba19120/" target="_blank"><img src="https://img.shields.io/badge/JONGGON-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-# :hammer: Skills
-
-<h3 align="center">🛠 Teck Stack 🛠</h3>
+<h1 align="center"> :hammer: Skills </h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
@@ -36,7 +35,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
 </p>
 
-# 📋 Experience
+<h1 align="center"> 📋 Experience </h1>
 
 | 기간 | 회사명 | 프로젝트     |
 |:----|:---------|:--------|
