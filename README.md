@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Jonggon%20Profile&fontSize=90&animation=fadeIn&fontAlignY=38&desc=my%20development%20journey!&descAlignY=51&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=260&section=header&text=Jonggon%20Profile&fontSize=90&animation=fadeIn&fontAlignY=38&desc=my%20development%20journey!&descAlignY=51&descAlign=62&rotate=-3)
 
 ### 👋 모든 것을 잘하고 싶어하는 김종곤 입니다.👋
 <!--
