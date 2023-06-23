@@ -8,25 +8,33 @@
  ---
 # 📞 Contact 📞
 <p>
-  💬 : <a href="mailto:rlawhdrhs27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rlawhdrhs27@gmail.com-EA3245?style=flat-square&logo=Gmail&logoColor=white"/></a>
-
-  📫 : <a href="https://www.linkedin.com/in/kim-jonggon-37ba19120/" target="_blank"><img src="https://img.shields.io/badge/JONGGON-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  💬 : <a href="mailto:rlawhdrhs27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rlawhdrhs27@gmail.com-EA3245?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/kim-jonggon-37ba19120/" target="_blank"><img src="https://img.shields.io/badge/JONGGON-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-<br>
-
 # :hammer: Skills
-![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=JAVA&logoColor=black) ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=Cplusplus&logoColor=white)
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?logo=react?&style=for-the-badge&logo=React&logoColor=black) ![NEXT](https://img.shields.io/badge/-NextJs-000000?logo=NextJS?&style=for-the-badge&logo=NextJS&logoColor=black)
-
-![Pytorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white) ![Tensorflow](https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white) ![Mxnet](https://img.shields.io/badge/Mxnet-61DAFB?style=flat-square&logo=Mxnet&logoColor=black) 
-
-![docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=black) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white) ![Git](https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032)
-![Github](https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black)
-<br>
+<h3 align="center">🛠 Teck Stack 🛠</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=Cplusplus&logoColor=white"/>
+  <br>
+  <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mxnet-61DAFB?style=flat-square&logo=Mxnet&logoColor=black"/>
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react?&style=for-the-badge&logo=React&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-NextJs-000000?logo=NextJS?&style=for-the-badge&logo=NextJS&logoColor=black"/>
+  <br>
+  <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/>
+</p>
 
 # 📋 Experience
 
