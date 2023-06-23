@@ -8,12 +8,12 @@
 
  ---
  
-<h1 align="center"> 📞 Contact </h1>
+<h3 align="center"> 📞 Contact </h3>
 <p>
   <a href="mailto:rlawhdrhs27@gmail.com" target="_blank"><img src="https://img.shields.io/badge/rlawhdrhs27@gmail.com-EA3245?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://www.linkedin.com/in/kim-jonggon-37ba19120/" target="_blank"><img src="https://img.shields.io/badge/JONGGON-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 </p>
 
-<h1 align="center"> :hammer: Skills </h1>
+<h3 align="center"> :hammer: Skills </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-white?style=flat&logo=Python&logoColor=#3776AB"/>
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></a>
@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white"/>
 </p>
 
-<h1 align="center"> 📋 Experience </h1>
+<h3 align="center"> 📋 Experience </h3>
 
 | 기간 | 회사명 | 프로젝트     |
 |:----|:---------|:--------|
