@@ -25,12 +25,14 @@
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat&logo=Tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Mxnet-61DAFB?style=flat&logo=Mxnet&logoColor=black"/>
   <br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?&style=flat&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat&logo=TypeScript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react?&style=flat&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-NextJs-121212?logo=NextJS?&style=flat&logo=NextJS&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+  <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
+  <br>
+  <img src="https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript"/>
+  <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
+  <img src="https://img.shields.io/badge/-NextJs-black?logo=NextJS?&style=flat&logo=NextJS&logoColor=black"/>
   <br>
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat&logo=GitHub&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-blue?style=flat&logo=Git&logoColor=F05032"/>
@@ -49,8 +51,8 @@
 
 <br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepFocuser&show_icons=true&theme=ayu-mirage&card_width=500px) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepFocuser&layout=compact&theme=ayu-mirage&card_width=500px)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepFocuser&show_icons=true&theme=bear&card_width=500px) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepFocuser&layout=compact&theme=bear&card_width=500px)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=random&height=121&animation=scaleIn&section=footer&fontColor=DBFEFE&fontSize=60&fontAlign=50&descAlignY=51&descAlign=50&rotate=1) 
 </div>
